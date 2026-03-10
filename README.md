@@ -23,11 +23,15 @@ I'm all about moving fast, writing efficient code, and using modern tools like V
 
 <br/>
 
-### 📊 Mis Estadísticas en GitHub
+### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agarciai03&show_icons=true&theme=dracula" alt="Estadísticas de agarciai03" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agarciai03&layout=compact&theme=dracula" alt="Top Lenguajes" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=agarciai03&show_icons=true&theme=dracula&locale=en" alt="agarciai03's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agarciai03&layout=compact&theme=dracula&locale=en" alt="Top Languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agarciai03&theme=dracula&hide_border=false" alt="GitHub Streak" height="165" />
 </p>
 
 <br/>
