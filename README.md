@@ -23,6 +23,15 @@ I'm all about moving fast, writing efficient code, and using modern tools like V
 
 <br/>
 
+### 📊 Mis Estadísticas en GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=agarciai03&show_icons=true&theme=dracula" alt="Estadísticas de agarciai03" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agarciai03&layout=compact&theme=dracula" alt="Top Lenguajes" height="165" />
+</p>
+
+<br/>
+
 ### 🛠️ Tech Stack & Tools:
 
 **Frontend & Design**
